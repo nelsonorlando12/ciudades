@@ -1286,6 +1286,27 @@
         ]
     },
     {  
+        "id":32,
+        "departamento":"C\u00f3rdoba",
+        "ciudades":[  
+            "Ayapel",
+            "Buenavista",
+            "Canalete",
+            "Ceret\u00e9",
+            "Chin\u00fa",
+            "Ci\u00e9naga de Oro",
+            "Cotorra",
+            "La Apartada",
+            "Montel\u00edbano",
+            "Monter\u00eda",
+            "Moñitos",
+            "Planeta Rica",
+            "Sahag\u00fan",
+            "San Pelayo",
+            "Tierralta"          
+        ]
+    },
+    {  
         "id":31,
         "departamento":"Vichada",
         "ciudades":[  
