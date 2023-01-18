@@ -2,6 +2,8 @@
     {  
         "id":0,
         "departamento":"Amazonas",
+        "coorx":303,
+        "coory":538,
         "ciudades":[  
             "Leticia"
         ]
@@ -9,23 +11,23 @@
     {  
         "id":1,
         "departamento":"Antioquia",
+        "coorx":111,
+        "coory":201,
         "ciudades":[  
             "Andes",
             "Apartad\u00f3",
-            "Barbosa",
             "Bello",
             "Caldas",
-            "Carepa",
             "Caucasia",
             "Ciudad Bol\u00edvar",
             "Copacabana",
             "Envigado",
             "Frontino",
             "Girardota",
+            "Guarne",
             "Itag\u00fc\u00ed",
             "La Ceja",
             "La Estrella",
-            "La Uni\u00f3n",
             "Marinilla",
             "Medell\u00edn",
             "Puerto Berr\u00edo",
@@ -42,6 +44,8 @@
     {  
         "id":2,
         "departamento":"Arauca",
+        "coorx":277,
+        "coory":176,
         "ciudades":[  
             "Arauca",
             "Saravena"
@@ -50,6 +54,8 @@
     {  
         "id":3,
         "departamento":"Atl\u00e1ntico",
+        "coorx":135,
+        "coory":46,
         "ciudades":[  
             "Barranquilla",
             "Galapa",
@@ -60,6 +66,8 @@
     {  
         "id":4,
         "departamento":"Bol\u00edvar",
+        "coorx":113,
+        "coory":64,
         "ciudades":[  
             "Arjona",
             "Cartagena de Indias",
@@ -68,13 +76,14 @@
             "Magangu\u00e9",
             "Momp\u00f3s",
             "San Juan Nepomuceno",
-            "Santa Rosa del Sur",
             "Turbaco"
         ]
     },
     {  
         "id":5,
         "departamento":"Boyac\u00e1",
+        "coorx":188,
+        "coory":225,
         "ciudades":[  
             "Chiquinquir\u00e1",
             "C\u00f3mbita",
@@ -97,10 +106,13 @@
     {  
         "id":6,
         "departamento":"Caldas",
+        "coorx":115,
+        "coory":240,
         "ciudades":[  
             "Aguadas",
             "Anserma",
             "Aranzazu",
+            "Chinchina",
             "La Dorada",
             "Manizales",
             "Manzanares",
@@ -112,16 +124,19 @@
     {  
         "id":7,
         "departamento":"Caquet\u00e1",
+        "coorx":111,
+        "coory":355,
         "ciudades":[  
             "Bel\u00e9n de los Andaqu\u00edes",
             "El Paujil",
-            "Florencia",
-            "San Vicente del Cagu\u00e1n"
+            "Florencia"
         ]
     },
     {  
         "id":8,
         "departamento":"Casanare",
+        "coorx":220,
+        "coory":231,
         "ciudades":[  
             "Aguazul",
             "Yopal"
@@ -130,6 +145,8 @@
     {  
         "id":9,
         "departamento":"Cauca",
+        "coorx":78,
+        "coory":328,
         "ciudades":[  
             "Bol\u00edvar",
             "Miranda",
@@ -143,6 +160,8 @@
     {  
         "id":10,
         "departamento":"Cesar",
+        "coorx":190,
+        "coory":62,
         "ciudades":[  
             "Aguachica",
             "Agust\u00edn Codazzi",
@@ -154,6 +173,8 @@
     {  
         "id":11,
         "departamento":"Choc\u00f3",
+        "coorx":76,
+        "coory":221,
         "ciudades":[  
             "Istmina",
             "Quibd\u00f3"
@@ -162,6 +183,8 @@
     {  
         "id":12,
         "departamento":"Cundinamarca",
+        "coorx":161,
+        "coory":259,
         "ciudades":[  
             "Bogot\u00e1",
             "C\u00e1queza",
@@ -189,6 +212,8 @@
     {  
         "id":13,
         "departamento":"C\u00f3rdoba",
+        "coorx":103,
+        "coory":120,
         "ciudades":[  
             "Ceret\u00e9",
             "Chin\u00fa",
@@ -201,6 +226,8 @@
     {  
         "id":14,
         "departamento":"Guain\u00eda",
+        "coorx":372,
+        "coory":282,
         "ciudades":[  
             "In\u00edrida"
         ]
@@ -208,6 +235,8 @@
     {  
         "id":15,
         "departamento":"Guaviare",
+        "coorx":223,
+        "coory":322,
         "ciudades":[  
             "San Jos\u00e9 del Guaviare"
         ]
@@ -215,7 +244,10 @@
     {  
         "id":16,
         "departamento":"Huila",
+        "coorx":121,
+        "coory":312,
         "ciudades":[  
+            "Baraya",
             "Campoalegre",
             "Garz\u00f3n",
             "La Plata",
@@ -229,6 +261,8 @@
     {  
         "id":17,
         "departamento":"La Guajira",
+        "coorx":204,
+        "coory":25,
         "ciudades":[  
             "Maicao",
             "Riohacha"
@@ -237,10 +271,11 @@
     {  
         "id":18,
         "departamento":"Magdalena",
+        "coorx":160,
+        "coory":36,
         "ciudades":[  
             "Aracataca",
             "Ci\u00e9naga",
-            "El Banco",
             "Fundaci\u00f3n",
             "Plato",
             "Santa Marta"
@@ -249,6 +284,8 @@
     {  
         "id":19,
         "departamento":"Meta",
+        "coorx":179,
+        "coory":272,
         "ciudades":[  
             "Acac\u00edas",
             "Granada",
@@ -260,13 +297,14 @@
     {  
         "id":20,
         "departamento":"Nari\u00f1o",
+        "coorx":53,
+        "coory":367,
         "ciudades":[  
             "Buesaco",
             "Chachag\u00fc\u00ed",
             "Guachucal",
-            "Imu\u00e9s",
+            "Inu\u00e9s",
             "Ipiales",
-            "La Uni\u00f3n",
             "Nari\u00f1o",
             "Pasto",
             "Pupiales",
@@ -279,6 +317,8 @@
     {  
         "id":21,
         "departamento":"Norte de Santander",
+        "coorx":217,
+        "coory":148,
         "ciudades":[  
             "Convenci\u00f3n",
             "C\u00facuta",
@@ -292,6 +332,8 @@
     {  
         "id":22,
         "departamento":"Putumayo",
+        "coorx":76,
+        "coory":369,
         "ciudades":[  
             "Mocoa",
             "Orito",
@@ -301,6 +343,8 @@
     {  
         "id":23,
         "departamento":"Quind\u00edo",
+        "coorx":107,
+        "coory":257,
         "ciudades":[  
             "Armenia",
             "Calarc\u00e1",
@@ -312,6 +356,8 @@
     {  
         "id":24,
         "departamento":"Risaralda",
+        "coorx":109,
+        "coory":250,
         "ciudades":[  
             "Dosquebradas",
             "La Virginia",
@@ -322,6 +368,8 @@
     {  
         "id":25,
         "departamento":"Santander",
+        "coorx":194,
+        "coory":175,
         "ciudades":[  
             "Barbosa",
             "Barrancabermeja",
@@ -340,6 +388,8 @@
     {  
         "id":26,
         "departamento":"Sucre",
+        "coorx":118,
+        "coory":99,
         "ciudades":[  
             "Corozal",
             "Sampu\u00e9s",
@@ -349,16 +399,18 @@
     {  
         "id":27,
         "departamento":"Tolima",
+        "coorx":124,
+        "coory":262,
         "ciudades":[  
             "Alvarado",
             "Armero",
             "Chaparral",
             "El Espinal",
-            "Fal\u00e1n",
             "Fresno",
             "Guamo",
             "Honda",
             "Ibagu\u00e9",
+            "Lerida",
             "L\u00edbano",
             "Mariquita",
             "Melgar",
@@ -368,6 +420,8 @@
     {  
         "id":28,
         "departamento":"Valle del Cauca",
+        "coorx":80,
+        "coory":294,
         "ciudades":[  
             "Andaluc\u00eda",
             "Buenaventura",
@@ -393,6 +447,8 @@
     {  
         "id":29,
         "departamento":"Vichada",
+        "coorx":384,
+        "coory":206,
         "ciudades":[  
             "Puerto Carre\u00f1o"
         ]
